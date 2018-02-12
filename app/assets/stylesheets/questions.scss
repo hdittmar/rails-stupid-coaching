@@ -1,3 +1,30 @@
 // Place all the styles related to the questions controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+ body{
+}
+
+.answer-box{
+  border-left: 3px solid lightgrey;
+  padding: 5px 10px;
+  margin: 10px auto;
+}
+
+.coach{
+  background-color: #F3EBAB;
+}
+
+.boxandline {
+  display: flex;
+}
+
+.btn{
+  border-top-left-radius: 0px !important;
+  border-bottom-left-radius: 0px !important;
+}
+
+.form-control{
+  border-top-right-radius: 0px !important;
+  border-bottom-right-radius: 0px !important;
+}
